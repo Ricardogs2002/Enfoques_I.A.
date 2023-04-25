@@ -4,10 +4,10 @@ Created on Sun Apr 23 19:27:54 2023
 @author: 6E1
 """
 
-from Grafos import Accion
-from Grafos import Estado
-from Grafos import Nodo
-from Grafos import Problema
+from Clases_base_Grafos import Accion
+from Clases_base_Grafos import Estado
+from Clases_base_Grafos import Nodo
+from Clases_base_Grafos import Problema
 
 #%%
 def anchura(problema):
