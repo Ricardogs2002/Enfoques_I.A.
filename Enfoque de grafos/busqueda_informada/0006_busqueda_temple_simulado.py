@@ -167,3 +167,28 @@ plt.title(f"Ruta óptima (distancia={distancia_optima})")
 
 # Mostrar el gráfico
 plt.show()
+
+
+#----------------------------------------- teoria-------------------------------
+"""
+
+La búsqueda de Temple Simulado es una técnica de optimización que se utiliza para encontrar la solución más óptima de un problema. 
+Es un algoritmo metaheurístico que se basa en la simulación de un proceso físico, en el cual se calienta y se enfría un material 
+hasta que alcanza una configuración deseada.
+
+El algoritmo de Temple Simulado comienza con una solución inicial y evalúa su calidad utilizando una función de costo.
+Luego, se genera una solución vecina modificando la solución actual y se evalúa su calidad. Si la nueva solución es mejor que la solución actual,
+se acepta como la nueva solución actual.
+Si la nueva solución es peor que la solución actual, se acepta con una probabilidad determinada por una función de enfriamiento y una temperatura actual.
+La temperatura disminuye gradualmente durante la búsqueda, lo que permite que el algoritmo escape de óptimos locales.
+
+El proceso de enfriamiento se utiliza para controlar la aceptación de soluciones peores a medida que el algoritmo converge a una solución óptima. 
+A medida que la temperatura disminuye, la probabilidad de aceptar soluciones peores también disminuye. La función de enfriamiento es una función 
+que determina la tasa de enfriamiento y la temperatura inicial.
+
+El algoritmo de Temple Simulado es un algoritmo iterativo que se ejecuta hasta que se alcanza un número máximo de iteraciones o hasta que
+se alcanza un valor de costo deseado. La solución óptima encontrada es la mejor solución encontrada durante el proceso de búsqueda.
+
+El algoritmo de Temple Simulado es utilizado en una amplia gama de problemas de optimización, incluyendo la optimización de rutas, 
+la programación de tareas y la optimización de parámetros en modelos matemáticos
+"""
