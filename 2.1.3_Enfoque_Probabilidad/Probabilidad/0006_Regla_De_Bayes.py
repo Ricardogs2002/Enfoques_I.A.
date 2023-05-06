@@ -1,7 +1,7 @@
 """
 Created on Wed Apr 4 2023
 
-@author: Adan Alvarez
+@author: Adan Alvarez.
 """
 
 # Probabilidad de ser hombre
