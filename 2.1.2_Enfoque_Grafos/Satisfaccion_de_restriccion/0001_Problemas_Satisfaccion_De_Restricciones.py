@@ -1,7 +1,7 @@
 """
 Created on Wed Apr 3 2023
 
-@author: Adan Alvarez
+@author: Adan Alvarez.
 """
 
 import matplotlib.pyplot as plt
