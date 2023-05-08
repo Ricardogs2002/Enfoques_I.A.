@@ -66,4 +66,4 @@ En cada iteración, se seleccionan los nodos más prometedores (según una heur�
 El proceso comienza con un conjunto inicial de nodos candidatos, que generalmente se seleccionan de forma aleatoria o según algún criterio heurístico.
 A continuación, se expanden los nodos candidatos y se generan nuevos nodos candidatos. 
 El proceso de expansión puede continuar hasta que se encuentra una solución o se alcanza un criterio de parada (por ejemplo, un límite en el número de iteraciones).
-"""
+""" 
