@@ -1,4 +1,4 @@
-from queue import Queue
+from queue import Queue  #queue es la representación de una cola
 
 # Crear una nueva cola
 q = Queue()
