@@ -57,3 +57,4 @@ de soluciones repetitivas.
 El programa utiliza la librería Matplotlib para graficar la evolución de la función de costo durante las iteraciones. 
 Se puede observar cómo la función de costo disminuye en cada iteración, lo que indica que el algoritmo está 
 convergiendo hacia la mejor solución posible.
+"""
