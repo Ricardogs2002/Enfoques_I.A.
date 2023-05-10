@@ -1,8 +1,8 @@
 # Areli Sarai García Medina | 20310380
 # Dinámica y Control
 
-import numpy as np
-import matplotlib.pyplot as plt
+import numpy as np # Se utiliza principalmente para trabajar con arreglos multidimensionales
+import matplotlib.pyplot as plt # Se utiliza para crear gráficos y visualizaciones a partir de los datos que se encuentran en arreglos
 
 # Parámetros del sistema
 m = 7.0  # masa del objeto
