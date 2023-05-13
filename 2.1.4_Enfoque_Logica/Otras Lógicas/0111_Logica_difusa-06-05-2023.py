@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May  6 13:30:24 2023
 
-@author: El Pepe
-"""
 
 import numpy as np
 #Librería usada para lógica difusa
