@@ -1,8 +1,4 @@
-"""
-Created on Mon May 8 2023
 
-@author: Adan Alvarez
-"""
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 
