@@ -1,4 +1,4 @@
-#Carlos Andres Riveramelo Del Toro
+
 #Proceso Estacionario
 
 #Este proceso es un proceso aleatorio, en el cual las propiedades estadisticas se mantienen
