@@ -1,5 +1,4 @@
-#Carlos Andres Riveramelo Del Toro
-#Heuristica
+
 
 #La heuristica es una estrategia que se utiliza paratomar decisiones en
 #situaciones donde no hay una solucion optima, este programa nos da un
