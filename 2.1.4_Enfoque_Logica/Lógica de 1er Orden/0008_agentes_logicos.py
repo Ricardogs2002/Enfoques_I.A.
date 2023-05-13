@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  9 14:49:20 2023
 
-@author: Alberto Aguiar
-"""
 
 from pyDatalog import pyDatalog
 
