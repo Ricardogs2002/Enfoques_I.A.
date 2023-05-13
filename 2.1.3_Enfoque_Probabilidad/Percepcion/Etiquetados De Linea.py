@@ -1,4 +1,4 @@
-#Carlos Andres Riveramelo Del Toro
+
 #Etiquetados de linea
 
 #El etiquetado de línea, también conocido como etiquetado de secuencia o etiquetado de tokens
