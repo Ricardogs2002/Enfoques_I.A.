@@ -1,4 +1,4 @@
-#Carlos Andres Riveramelo Del Toro
+
 #Perceptrone Adaline y Madaline "ADALINE"
 
 #Practicamente son lo mismo, solo que el adeline es una red neuronal de 1 sola capa
