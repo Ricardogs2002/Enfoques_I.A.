@@ -1,8 +1,4 @@
-"""
-Created on Sun May 7 2023
 
-@author: Adan Alvarez
-"""
 
 import networkx as nx
 import matplotlib.pyplot as plt
