@@ -1,8 +1,4 @@
-"""
-Created on Wed May 3 2023
 
-@author: Adan Alvarez
-"""
 
 import matplotlib.pyplot as plt
 from matplotlib.patches import RegularPolygon
