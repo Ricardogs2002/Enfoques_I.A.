@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  9 14:18:54 2023
 
-@author: Alberto Aguiar
-"""
 
 import speech_recognition as sr
 
