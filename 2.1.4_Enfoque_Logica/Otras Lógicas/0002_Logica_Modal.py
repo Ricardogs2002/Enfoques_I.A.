@@ -1,8 +1,3 @@
-"""
-Created on Sun May 7 2023
-
-@author: Adan Alvarez
-"""
 
 import random
 import time
