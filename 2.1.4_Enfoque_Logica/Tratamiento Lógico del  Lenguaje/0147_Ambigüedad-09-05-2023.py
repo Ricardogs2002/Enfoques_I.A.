@@ -3,7 +3,6 @@
 import spacy
 from nltk.corpus import wordnet as wn
 
-"Nota parece que en el google colab no funciona"
 
 "spaCy:"# Es una librería de procesamiento del lenguaje natural en Python y Cython.
 # Ofrece pipelines preentrenados y soporte para más de 70 idiomas.(teoria porque en español no pude)
