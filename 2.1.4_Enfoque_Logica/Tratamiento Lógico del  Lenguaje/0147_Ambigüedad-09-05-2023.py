@@ -8,7 +8,7 @@ from nltk.corpus import wordnet as wn
 # Ofrece pipelines preentrenados y soporte para más de 70 idiomas.(teoria porque en español no pude)
 #Proporciona componentes para el reconocimiento de entidades,
 # etiquetado de partes de la oración, análisis de dependencias, 
-#clasificación de texto, entre otros.
+#clasificación de texto, entre otros
 
 "nltk.wsd:" #Es un módulo de NLTK (Natural Language Toolkit) que contiene algoritmos
 # para la desambiguación del sentido de las palabras.
