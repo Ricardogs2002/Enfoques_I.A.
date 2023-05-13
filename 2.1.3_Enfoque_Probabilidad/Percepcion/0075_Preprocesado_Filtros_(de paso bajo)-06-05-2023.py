@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May  6 10:55:57 2023
 
-@author: El Pepe
-"""
 "Filtro de paso bajo (Low-pass filter): Este filtro se utiliza para suavizar la señal y "
 "eliminar componentes de alta frecuencia, manteniendo las componentes de baja"
 "frecuencia. Ayuda a reducir el ruido y las fluctuaciones no deseadas."
