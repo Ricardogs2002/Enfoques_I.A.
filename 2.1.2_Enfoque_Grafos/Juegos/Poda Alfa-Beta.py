@@ -1,4 +1,4 @@
-#Carlos Andres Riveramelo Del Toro
+
 #Poda Alfa-Beta
 
 #La poda alfa-beta se utiliza para mejorar la eficiencia de los algoritmos
