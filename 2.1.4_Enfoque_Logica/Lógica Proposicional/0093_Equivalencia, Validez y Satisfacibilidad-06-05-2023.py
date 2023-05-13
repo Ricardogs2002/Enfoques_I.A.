@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May  6 11:45:27 2023
-
-@author: El Pepe
-"""
 
 "En el enfoque lógico de la inteligencia artificial, la lógica proposicional es una forma "
 "de representar y razonar sobre proposiciones y sus interrelaciones utilizando"
