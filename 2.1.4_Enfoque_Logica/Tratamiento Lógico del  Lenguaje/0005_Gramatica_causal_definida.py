@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 12 18:26:18 2023
 
-@author: 52331
-"""
 
 # Definimos una clase para representar las reglas de la gramática
 class Rule:
