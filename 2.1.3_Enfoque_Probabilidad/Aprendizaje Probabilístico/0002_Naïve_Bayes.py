@@ -1,8 +1,4 @@
-"""
-Created on Fri May 5 2023
 
-@author: Adan Alvarez
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
