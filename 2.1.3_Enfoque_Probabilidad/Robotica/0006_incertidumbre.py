@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  9 14:46:40 2023
 
-@author: Alberto Aguiar
-"""
 
 from filterpy.kalman import KalmanFilter
 import numpy as np
